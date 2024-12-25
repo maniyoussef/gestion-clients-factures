@@ -1,0 +1,4 @@
+com/example/model/Client.class
+com/example/model/Invoice.class
+com/example/GestionClientsFacturesApplication.class
+com/example/model/ObjectFactory.class
